@@ -13,6 +13,4 @@ function outerFunction(outerVariable) {
 const newFunction = outerFunction("outside");
 newFunction("inside");
 
-// Output:
-Outer Variable: outside
-Inner Variable: inner
+
